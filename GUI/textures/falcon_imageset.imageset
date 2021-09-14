@@ -1,0 +1,20 @@
+ImageSetClass {
+ Name "falcon_gui"
+ RefSize 39 54
+ Textures {
+  ImageSetTextureClass {
+   mpix 1
+   path "{7D6F2E9718C6BEE8}FalconAtmosphere/GUI/textures/falcon_sleep.edds"
+  }
+ }
+ Images {
+  ImageSetDefClass falcon_sleep_full {
+   Name "falcon_sleep_full"
+   Pos 6 14
+   Size 29 27
+   Flags 0
+  }
+ }
+ Groups {
+ }
+}

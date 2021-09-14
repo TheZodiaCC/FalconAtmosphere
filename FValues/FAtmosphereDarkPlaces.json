@@ -1,0 +1,18 @@
+[
+  {
+    "placePos": [
+      "10439 2 1841",
+      "10422 2 1861"
+    ],
+    "placeHeight": 10,
+    "darkness": 0
+  },
+  {
+    "placePos": [
+      "10422 2 1845",
+      "10404 2 1857"
+    ],
+    "placeHeight": 10,
+    "darkness": 0.01
+  }
+]
