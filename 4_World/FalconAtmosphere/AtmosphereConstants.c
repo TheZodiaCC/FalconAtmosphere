@@ -13,4 +13,5 @@ class AtmosphereConstants
 	const static int SLEEP_ICON_ID = 17;
 	const static float TIME_TO_SCRAP_PART = 5;
 	const static float TIME_TO_SEARCH_FRUIT = 5;
+	const static float MINING_TOOL_DAMAGE = 1;
 }

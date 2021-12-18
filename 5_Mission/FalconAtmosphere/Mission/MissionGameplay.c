@@ -127,7 +127,7 @@ modded class MissionGameplay {
 		
 		if (atmosphereCurrentTime >= atmosphereNTime + atmosphereUpdateTick)
 		{
-			atmospherePlayer = GetGame().GetPlayer();
+			atmospherePlayer = PlayerBase.Cast(GetGame().GetPlayer());
 			
 			if (atmospherePlayer)
 			{

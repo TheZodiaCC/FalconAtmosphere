@@ -22,7 +22,7 @@ modded class Land_Lamp_City1_amp extends PASReceiver
 {
 	Object lamp;
 
-    void EEInit()
+    override void EEInit()
     {
 	 	super.EEInit();
 		
@@ -42,7 +42,7 @@ modded class Land_Power_Pole_Conc4_Lamp_Amp extends PASReceiver
 {
 	 Object lamp;
 
-    void EEInit()
+   	override void EEInit()
     {
 	 	super.EEInit();
 		
@@ -62,7 +62,7 @@ modded class Land_Power_Pole_Wood1_Lamp_Amp extends PASReceiver
 {
 	 Object lamp;
 
-    void EEInit()
+    override void EEInit()
     {
 	 	super.EEInit();
 		

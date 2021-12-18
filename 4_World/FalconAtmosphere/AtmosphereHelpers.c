@@ -21,7 +21,7 @@ class AtmosphereHelpers
 		
 		if (player.GetInventory().FindAttachmentByName(bodyPart))
 		{
-			Clothing clothing = player.GetInventory().FindAttachmentByName(bodyPart);
+			Clothing clothing = Clothing.Cast(player.GetInventory().FindAttachmentByName(bodyPart));
 			
 			if (clothing.IsInherited(Clothing))
 			{

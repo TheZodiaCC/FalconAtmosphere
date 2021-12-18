@@ -125,9 +125,9 @@ class CfgVehicles
 		{
 				class PointLight
 				{
-						color[] 	= { 2.5, 2.5, 1.5, 0.0 };
-						brightness 	= 1.0;
-						radius 		= 30;
+						color[] 	= { 225, 165, 15, 0.5 };
+						brightness 	= 0.2;
+						radius 		= 15;
 						dayLight 	= 0;
 						position = "light";
 				};

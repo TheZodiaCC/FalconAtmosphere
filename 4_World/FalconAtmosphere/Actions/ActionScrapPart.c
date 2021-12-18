@@ -1,6 +1,6 @@
 class ActionScrapPartCB : ActionContinuousBaseCB
 {
-	private const float TIME_BETWEEN_MATERIAL_DROPS = GoldMiningConsts.TIME_TO_MINE_GOLD;
+	private const float TIME_BETWEEN_MATERIAL_DROPS = AtmosphereConstants.TIME_TO_SCRAP_PART;
 
 	override void CreateActionComponent()
 	{

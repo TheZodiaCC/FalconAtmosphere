@@ -43,7 +43,7 @@ class CAContinuousScrapPart : CAContinuousMineWood
 				{
 					if (action_data.m_MainItem)
 					{
-						action_data.m_MainItem.DecreaseHealth( "", "", GoldMiningConsts.MINING_TOOL_DAMAGE );
+						action_data.m_MainItem.DecreaseHealth( "", "", AtmosphereConstants.MINING_TOOL_DAMAGE );
 					}
 					
 				}

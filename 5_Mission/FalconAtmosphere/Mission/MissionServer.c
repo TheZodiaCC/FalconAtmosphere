@@ -35,7 +35,7 @@ modded class MissionServer
 	override void OnMissionStart()
 	{
 		super.OnMissionStart();
-		LampsUtils.initLamps();
+		//LampsUtils.initLamps();
 	}
 
 	//override void OnMissionLoaded()
