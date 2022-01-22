@@ -16,7 +16,7 @@ Custom Atmosphere for DayZ Standalone
 
 ### Setup
 1. Load mod to server
-2. Move `FValues`dir to your ServerProfile directory.
+2. Move `FValues` dir to your ServerProfile directory.
 
 ### Customization
 - For dark places customization see `FValues/FAtmosphereDarkPlaces.json`
