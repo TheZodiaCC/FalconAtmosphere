@@ -1,6 +1,8 @@
 # FalconAtmosphere
 Custom Atmosphere for DayZ Standalone
 
+Models by https://github.com/JakubPPawlak
+
 ---
 
 ### Features
@@ -21,3 +23,8 @@ Custom Atmosphere for DayZ Standalone
 ### Customization
 - For dark places customization see `FValues/FAtmosphereDarkPlaces.json`
 - For radiation places customization see `FValues/FAtmosphereRadiationPlaces.json`
+
+### Media
+![DARK ZONE](/media/at1.png)
+![SEARCH FOR FRUITS](/media/at_3.png)
+![SALVAGE CAR PARTS](/media/at_4.png)
